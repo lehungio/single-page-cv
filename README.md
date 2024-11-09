@@ -66,3 +66,5 @@ Welcome to my professional resume. Below is a rendering of my experience, educat
 2. Copy the HTML snippet above.
 3. Save it as `resume.html`.
 4. Open it in any browser to view the rendered resume.
+
+https://roadmap.sh/projects/single-page-cv
