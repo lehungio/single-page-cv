@@ -1,13 +1,13 @@
-# John Doe's Resume
+# Lehung IO's Resume
 
 Welcome to my professional resume. Below is a rendering of my experience, education, and skills.
 
 ---
 
 <div align="center">
-    <h1>John Doe</h1>
+    <h1>Lehung IO</h1>
     <p>Software Developer</p>
-    <p>Email: john.doe@example.com | Phone: (123) 456-7890 | Website: <a href="https://www.johndoe.com" target="_blank">www.johndoe.com</a></p>
+    <p>Email: me@lehungio.com | Phone: (123) 456-7890 | Website: <a href="https://www.lehungio.com" target="_blank">www.lehungio.com</a></p>
 </div>
 
 ---
